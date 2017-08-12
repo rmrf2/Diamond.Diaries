@@ -1,3 +1,0 @@
-D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProject\MyProject.Build.cs
-D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProject.Target.cs
-D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProjectEditor.Target.cs
