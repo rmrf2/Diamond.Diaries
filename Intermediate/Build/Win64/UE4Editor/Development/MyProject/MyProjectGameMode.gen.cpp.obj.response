@@ -25,9 +25,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
-/I "C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Source"
-/I "C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject"
-/I "C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Source\MyProject"
+/I "D:\Documents\Unreal Projects\Diamond.Diaries\Source"
+/I "D:\Documents\Unreal Projects\Diamond.Diaries\Intermediate\Build\Win64\UE4Editor\Inc\MyProject"
+/I "D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProject"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -357,9 +357,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameMode.gen.cpp"
-/FI"C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
-/Fo"C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.gen.cpp.obj"
+"D:\Documents\Unreal Projects\Diamond.Diaries\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectGameMode.gen.cpp"
+/FI"D:\Documents\Unreal Projects\Diamond.Diaries\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h"
+/Fo"D:\Documents\Unreal Projects\Diamond.Diaries\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.gen.cpp.obj"
 /TP
 /GR-
 /W4
