@@ -1,3 +1,3 @@
-C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Source\MyProject\MyProject.Build.cs
-C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Source\MyProject.Target.cs
-C:\Users\Rory McGann\Documents\Unreal Projects\MyProject\Source\MyProjectEditor.Target.cs
+D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProject\MyProject.Build.cs
+D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProject.Target.cs
+D:\Documents\Unreal Projects\Diamond.Diaries\Source\MyProjectEditor.Target.cs
